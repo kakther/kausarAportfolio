@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/home-img.jpg");
 			}
 
 			#main > section.two {
@@ -2261,6 +2261,11 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
+			}
+
+			.header{
+				color: white;
+				font-size: 1.25em;
 			}
 
 /* Wide */
